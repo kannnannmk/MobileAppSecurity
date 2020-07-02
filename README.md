@@ -13,3 +13,5 @@ Use OWASP Mobile testing playgroud for practice --> https://github.com/OWASP/MST
 Gettin started with hacking Android and iOS apps --> https://www.youtube.com/watch?v=BQWcUjzxJE0
 
 NowSecure Mobile Security Automation ==> https://www.perfecto.io/webinars/deliver-flawless-mobile-apps-faster-ci-cd-ct
+
+SSL Pinning in android ==> https://www.netguru.com/codestories/3-ways-how-to-implement-certificate-pinning-on-android
