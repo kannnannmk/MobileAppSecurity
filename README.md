@@ -15,3 +15,5 @@ Gettin started with hacking Android and iOS apps --> https://www.youtube.com/wat
 NowSecure Mobile Security Automation ==> https://www.perfecto.io/webinars/deliver-flawless-mobile-apps-faster-ci-cd-ct
 
 SSL Pinning in android ==> https://www.netguru.com/codestories/3-ways-how-to-implement-certificate-pinning-on-android
+
+OWASP Bay Area : iOS Application Vulnerabilities and How to find them ==> https://www.youtube.com/watch?v=2CKrw7ErzCY
